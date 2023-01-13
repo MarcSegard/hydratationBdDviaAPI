@@ -1,0 +1,51 @@
+{
+    "fields": {
+        "geolocalisation": [
+            48.911006894,
+            1.72043999321
+        ],
+        "uu_id_10": "SO",
+        "fr_id": "FR11",
+        "dep_num_nom": "78 - Yvelines",
+        "com_nom_maj_court": "ARNOUVILLE LES MANTES",
+        "au_id": "AU001",
+        "auc_id": "AU001",
+        "dep_nom": "Yvelines",
+        "uucr_id": "CR78020",
+        "aca_id": "A25",
+        "reg_nom": "\u00cele-de-France",
+        "dep_code": "78",
+        "com_code2": "78020",
+        "fe_id": "FE1",
+        "dep_nom_num": "Yvelines (78)",
+        "com_code": "78020",
+        "reg_code_old": "11",
+        "uu_id_99": "SO",
+        "dep_id": "D078",
+        "fd_id": "FD111",
+        "com_nom": "Arnouville-l\u00e8s-Mantes",
+        "regrgp_nom": "\u00cele-de-France",
+        "com_nom_maj": "ARNOUVILLE-LES-MANTES",
+        "reg_nom_old": "\u00cele-de-France",
+        "reg_id_old": "R11",
+        "reg_id": "R11",
+        "aca_nom": "Versailles",
+        "com_code1": "78020",
+        "au_code": "001",
+        "uucr_nom": "Arnouville-l\u00e8s-Mantes",
+        "ze_id": "ZE1110",
+        "uu_id": "SO",
+        "auc_nom": "Paris",
+        "aca_code": "25",
+        "com_id": "C78020",
+        "reg_code": "11"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.72043999321,
+            48.911006894
+        ]
+    },
+    "record_timestamp": "2020-11-23T13:58:15.677Z"
+}
