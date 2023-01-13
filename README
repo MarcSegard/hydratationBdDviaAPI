@@ -1,0 +1,4 @@
+Ce projet est un script permettant d'hydrater une base de données via un script node.
+
+Il reste à maîtriser l'asynchronisme d'axios afin de mieux maîtriser 
+le comportement du script. 
